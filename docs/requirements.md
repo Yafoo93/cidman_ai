@@ -86,3 +86,15 @@ This document outlines the core features and specifications for CIDman AI, an AI
  v. Standard operating procedure documentation.
         Purpose: Provides investigators with centralized access to the Ghana Police Service's standard operating procedures and guidelines.
         Description: CIDman AI will maintain a comprehensive repository of the Ghana Police Service's standard operating procedures, policies, and guidelines related to various investigative processes and administrative tasks. Investigators can refer to this documentation within the system to ensure they are following the service's established protocols.
+
+## USER INTERRACTIONS.
+ i. Report Generation
+    - **User Input**: Investigator provides a short description or brief facts of the case details (e.g., type of crime, date, persons involved).
+    - **AI Response**: CIDman AI generates a structured report template, pre-filling any standard information, and provides sections where the investigator can input specific details.
+    **Example Interaction**:
+    - **Investigator Input**: "What does the Criminal Code say about theft?"
+    - **AI Response**: "Theft is defined under Section 124(1) of the Criminal Code Act 20/1960 as...."
+
+ii. Law Reference
+    - **User Input**: Investigator enters keywords or specific law sections they want to inquire about.
+    - **AI Response**: CIDman AI retrieves relevant sections from legal texts (e.g., Constitution, Criminal Code) and displays them in a readable format.
