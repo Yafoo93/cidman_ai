@@ -98,3 +98,26 @@ This document outlines the core features and specifications for CIDman AI, an AI
 ii. Law Reference
     - **User Input**: Investigator enters keywords or specific law sections they want to inquire about.
     - **AI Response**: CIDman AI retrieves relevant sections from legal texts (e.g., Constitution, Criminal Code) and displays them in a readable format.
+
+### DATA SOURCES
+ 1. Legal Texts:
+    i. Criminal and Other Offences Act, 1960(Act 29).
+    ii. The 1992 Constitution of Ghana.
+    iii. Criminal Procedure Code, 1960 (Act 30).
+    iv. Road Traffic Act.
+    v. Children's Act, 1998 (Act 560).
+    vi. The Police Service Regulation, 2012.
+    vii. The Evidence Act.
+    viii. Arms And Ammunitions Act.
+    ix. Cyber Security Act, 2020 (Act 1038).
+    x. Data Protection Act, 2012 (Act 849).
+    xi. Electronic Transaction Act.
+    xii. Electronic Communications Act.
+
+ 2. Investigation Report Template.
+    i. Situational Report.
+    ii. CID Form 10.
+    iii. Administrative Report.
+    iv. Charge Sheet.
+    v. Brief Fact.
+    vi. Accident Report.
