@@ -113,9 +113,10 @@ ii. Law Reference
     x. Data Protection Act, 2012 (Act 849).
     xi. Electronic Transaction Act.
     xii. Electronic Communications Act.
+    xiii. Service Instructions.
 
  2. Investigation Report Template.
-    i. Situational Report.
+    i. Situational Report(SITREP).
     ii. CID Form 10.
     iii. Administrative Report.
     iv. Charge Sheet.
