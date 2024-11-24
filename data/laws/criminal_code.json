@@ -569,32 +569,346 @@
             "title": "JUSTIFIABLE FORCE AND HARM",
             "sections": [
                 {
-                    "section_number": "3",
-                    "title": "Mental State",
-                    "content": "A person is not criminally responsible for an act or omission if they lacked intent or understanding.",
+                    "section_number": "30",
+                    "title": "Justification for Force or Harm.",
+                    "content": "Justification for Force or Harm.",
                     "subsections": [
                         {
                             "subsection_number": "1",
-                            "content": "This includes cases of mental illness or impairment."
+                            "content": "For the purposes of this Code, force or harm is justifiable which is used or caused in pursuance of such matter of justification, and within such limits, as are hereafter in this Chapter mentioned."
+                        },
+                        {
+                            "subsection_number": "2",
+                            "content": "Throughout the remainder of this Chapter, expressions applying to the use of force apply also to the causing of harm, although force only may be expressly mentioned."
                         }
                     ]
+                },
+                {
+                    "section_number": "31",
+                    "title": "Grounds on which Force or Harm May be Justified.",
+                    "content": "Force may be justified in the cases and manner, subject to the conditions, hereinafter in this Chapter mentioned, on the ground of any of the following matters, namely— /n (a) express authority given by an enactment; or /n (b) authority to execute the lawful sentence or order of a Court; or /n (c) the authority of an officer to keep the peace or of a Court to preserve order; or /n (d) authority to arrest and detain for felony; or /n (e) authority to arrest, detain, or search a person otherwise than for felony; or /n (f) necessity for prevention of or defence against crime; or /n (g) necessity for defence of property or possession or for overcoming the obstruction to the exercise of lawful rights; or /n (h) necessity for preserving order on board a vessel; or /n (i) authority to correct a child, servant, or other similar person, for misconduct; or /n (j) the consent of the person against whom the force is used.",
+                    "subsections": [
+                        {
+                            "subsection_number": "1",
+                            "content": ""
+                        }
+                    ]
+                },
+                {
+                    "section_number": "32",
+                    "title": "General Limits of Justifiable Force or Harm.",
+                    "content": "Notwithstanding the existence of any matter of justification for force, force cannot be justified as having been used in pursuance of that matter— /n (a) which is in excess of the limits hereinafter prescribed in the section of this Chapter relating to that matter; or /n (b) which in any case extends beyond the amount and kind of force reasonably necessary for the purpose for which force is permitted to be used.",
+                    "subsections": [
+                        {
+                            "subsection_number": "1",
+                            "content": ""
+                        }
+                    ]
+                },
+                {
+                    "section_number": "33",
+                    "title": "Use of Force by Authority of Enactment.",
+                    "content": "Whoever is authorised by an enactment to use force may justify the use of necessary force according to the terms and conditions of his authority.",
+                    "subsections": [
+                        {
+                            "subsection_number": "1",
+                            "content": ""
+                        }
+                    ]
+                },
+                {
+                    "section_number": "34",
+                    "title": "Use of Force in Execution of Sentence or Order of a Court.",
+                    "content": "Whoever is authorised to execute any lawful sentence or order of a Court may justify the force mentioned in the sentence or order.",
+                    "subsections": [
+                        {
+                            "subsection_number": "1",
+                            "content": ""
+                        }
+                    ]
+                },
+                {
+                    "section_number": "35",
+                    "title": "Use of Force by Peace Officer, or by Judicial or Official Authority, for Preservation of Order.",
+                    "content": "Whoever is authorised as a peace officer, or in any judicial or official capacity, to keep the peace or preserve order at any place, or to remove or exclude a person from any place, or to use force for any similar purpose, may justify the execution of his authority by any necessary force.",
+                    "subsections": [
+                        {
+                            "subsection_number": "1",
+                            "content": ""
+                        }
+                    ]
+                },
+                {
+                    "section_number": "36",
+                    "title": "Use of Force in Arrest, Detention, or Recapture of any Person According to Law.",
+                    "content": "Whoever by law may, with or without warrant or other legal process, arrest and detain another person may, if the other person, having notice or believing that he is lawfully arrested, avoids arrest by resistance or fight or escapes or endeavours to escape from custody, use any force which is necessary for his arrest, detention, or recapture, and may, if the arrest is made in respect of a felony, kill him, if he cannot by any means otherwise be arrested, detained, or retaken."
+                },
+                {
+                    "section_number": "37",
+                    "title": "Use of Force for Prevention of or Defence Against Crime, Etc.",
+                    "content": "For the prevention of, or for the defence of himself or any other person against any crime, or for the suppression or dispersion of a riotous or unlawful assembly, a person may justify any force or harm which is reasonably necessary extending in case of extreme necessity, even to killing."
+                },
+                {
+                    "section_number": "38",
+                    "title": "Unlawful Fights.",
+                    "content": "No force used in an unlawful fight can be justified under any provision of this Code; and every fight is an unlawful fight in which a person engages, or which he maintains, otherwise than solely in pursuance of some of the matters of justification specified in this Chapter."
+                },
+                {
+                    "section_number": "39",
+                    "title": "Use of Force for Defence of Property or Possession or Overcoming Obstruction of Legal Right.",
+                    "content": "A person may justify the use of force for the defence of property or possession, or for overcoming and obstruction to the exercise of any legal right, as follows— /n (a) a person in actual possession of a house, land, or vessel, or goods, or his servant or any other person authorised by him, may use such force as is reasonably necessary for repelling a person who attempts forcibly and unlawfully to enter the house, land, or vessel, or to take possession of the goods; /n (b) a person in actual possession of a house, land, or vessel, or his servant or any other person authorised by him, may use such force as is reasonably necessary for removing a person who, being in or on the house, land, or vessel, and having been lawfully required to depart therefrom refuses to depart; /n (c) if a person wrongfully takes possession of or detains goods, any other person who, as against him, has a present right to the possession of them, may, upon his refusal to deliver up the goods on demand, use such force, by himself or by any other person, as is reasonably necessary for recovering possession of the goods; and /n (d) a person may use such force, as is reasonably necessary for overcoming any obstruction or resistance to the exercise by him of any legal right."
+                },
+                {
+                    "section_number": "40",
+                    "title": "Use of Force for Preserving Order on Board a Vessel.",
+                    "content": "The master of a vessel, or any person acting by his order, may justify the use of any such force against any person on board the vessel as is necessary for suppressing any mutiny or disorder on board the vessel, whether among officers, seamen, or passengers, whereby the safety of the vessel, or of any person therein or about to enter or quitting it, is likely to be endangered, or the master is threatened to be subjected to the commands of any other persons; and may kill any person who is guilty of or abets any mutiny or disorder, if the safety of the vessel, or the preservation of any person as aforesaid, cannot by any means be otherwise secured."
+                },
+                {
+                    "section_number": "41",
+                    "title": "Use of Force in Correcting a Child, Servant, or Other Similar Person for Misconduct.",
+                    "content": "A blow or other force, may be justified for the purpose of correction, as follows— /n (a) a father or mother may correct his or her legitimate or illegitimate child, being under sixteen years of age, or any guardian, or person acting as a guardian, his ward, being under sixteen years of age, for misconduct or disobedience to any lawful command. /n (b) a master may correct his servant or apprentice, being under sixteen years of age, for misconduct or default in his duty as such servant or apprentice; /n (c) repealed by Act 183, section 320(2)./n (d) a father or mother or guardian, or a person acting as a guardian, may delegate to any person whom he or she entrusts permanently or temporarily with the governance or custody of his or her child, or ward all his or her own authority for correction, including the power to determine in what cases correction ought to be inflicted; and such delegation shall be presumed, except in so far as it may be expressly withheld, in the case of a schoolmaster, or a person acting as a schoolmaster, in respect of a child or ward; /n (e) a person who is authorised to inflict correction as in this section mentioned may, in any particular case delegate to any fit person the infliction of such correction; and /n (f) no correction can be justified which is unreasonable in kind or in degree, regard being had to the age and physical and mental condition of the person on whom it is inflicted; and no correction can be justified in the case of a person who, by reason of tender years or otherwise, is incapable of understanding the purpose for which it is inflicted."
+                },
+                {
+                    "section_number": "42",
+                    "title": "Use of Force in Case of Consent of the Person Against whom it is Used.",
+                    "content": "The use of force against a person may be justified on the ground of his consent, but— /n (a) the killing of a person cannot be justified on the ground of consent; /n (b) a wound or grievous harm cannot be justified on the ground of consent, unless the consent is given, and the wound or harm is caused, in good faith, for the purposes or in the course of medical or surgical treatment. /n (c) consent to the use of force for the purposes of medical or surgical treatment does not extend to any improper or negligent treatment. /n (d) consent to the use of force against a person for purposes of medical or surgical treatment, or otherwise for his benefit may be given against his will by his father or mother or guardian or a person acting as his guardian, if he is under eighteen years of age, or by any person lawfully having the custody of him if he is insane or is a prisoner in any prison or reformatory, and, when so given on his behalf, cannot be revoked by him; /n (e) if a person is intoxicated or insensible, or is from any cause unable to give or withhold consent, any force is justifiable which is used, in good faith and without negligence, for the purposes of medical or surgical treatment or otherwise for his benefit, unless some person authorised by him or by law to give or refuse consent on his behalf dissents from the use of that force; /n (f) a party to a fight whether lawful or unlawful, cannot justify, on the ground of the consent of another party, any force which he uses with intent to cause harm to the other party; and /n (g) a person may revoke any consent which he has given to the use of force against him, and his consent when so revoked shall have no effect for justifying force; save that the consent given by husband or wife at marriage, for the purposes of marriage, cannot be revoked until the parties are divorced or separated by a judgment or decree of a competent Court."
+                },
+                {
+                    "section_number": "43",
+                    "title": "Use of Force Against Third Person Interfering in Case of Justifiable Use of Force.",
+                    "content": "Every person who, in justifiably using force against another person, is obstructed or resisted by a third person, may in any case use such force against the third person, as is reasonably necessary for overcoming the obstruction or resistance; and may, if the obstruction or resistance amounts to a crime or to abetment of a crime, use force in accordance with the provisions of this Chapter with respect to the use of force in case of necessity for preventing crime."
+                },
+                {
+                    "section_number": "44",
+                    "title": "Use of Additional Force for Exercise of Justifiable Force.",
+                    "content": "Every person who is authorised to use force of a particular kind against a person may further use such further use such additional force, as is reasonably necessary for the execution of his authority."
+                },
+                {
+                    "section_number": "45",
+                    "title": "Justification of Person Aiding Another Person in Use of Justifiable Force.",
+                    "content": "Every person who aids another person in a justifiable use of force is justified to the same extent and under the same conditions as the other person."
                 }
             ]
         },
         {
-            "chapter": "Chapter 4",
-            "title": "ABETMENT AND CONSPIRACY",
+            "chapter": "Chapter 6",
+            "title": "CRIMINAL HOMICIDE AND SIMILAR OFFENCES",
             "sections": [
                 {
-                    "section_number": "3",
-                    "title": "Mental State",
-                    "content": "A person is not criminally responsible for an act or omission if they lacked intent or understanding.",
+                    "section_number": "46",
+                    "title": "Murder.",
+                    "content": "Whoever commits murder shall be liable to suffer death."
+                },
+                {
+                    "section_number": "47",
+                    "title": "Definition of Murder.",
+                    "content": "Whoever intentionally causes the death of another person by any unlawful harm is guilty of murder, unless his crime is reduced to manslaughter by reason of such extreme provocation, or other matter of partial excuse, as mentioned in section 52."
+                },
+                {
+                    "section_number": "48",
+                    "title": "Attempt to Commit Murder.",
+                    "content": "Whoever attempts to commit murder shall be guilty of first degree felony."
+                },
+                {
+                    "section_number": "49",
+                    "title": "Attempt to Commit Murder by Convict.",
+                    "content": "Whoever, being under sentence of imprisonment for three years or more, attempts to commit murder, shall be liable to suffer death."
+                },
+                {
+                    "section_number": "49A",
+                    "title": "Genocide.",
+                    "content": "Genocide",
                     "subsections": [
                         {
                             "subsection_number": "1",
-                            "content": "This includes cases of mental illness or impairment."
+                            "content": "Whoever commits genocide shall on conviction be sentenced to death."
+                        },
+                        {
+                            "subsection_number": "2",
+                            "content": "A person commits genocide where with intent to destroy, in whole or in part any national, ethnical, racial or religious group he— /n (a) kills members of the group; /n (b) causes serious bodily or mental harm to members of the group; /n (c) deliberately inflicts on the group conditions of life calculated to bring its physical destruction in whole or in part; /n (d) imposes measures intended to prevent births within the group; or /n (e) forcibly transfers children of the group to another group."
                         }
                     ]
+                },
+                {
+                    "section_number": "50",
+                    "title": "Manslaughter.",
+                    "content": "Whoever commits manslaughter shall be guilty of first degree felony."
+                },
+                {
+                    "section_number": "51",
+                    "title": "Definition of Manslaughter.",
+                    "content": "Whoever causes the death of another person by any unlawful harm shall be guilty of manslaughter. Provided that if the harm causing death is caused by negligence he shall not be guilty of manslaughter unless the negligence amounts to a reckless disregard for human life."
+                },
+                {
+                    "section_number": "52",
+                    "title": "Cases in which Intentional Homicide is Reduced to Manslaughter.",
+                    "content": "A person who intentionally causes the death of another person by unlawful harm shall be guilty only of manslaughter, and not of murder or attempt to murder, if— /n (a) he was deprived of the power of self-control by such extreme provocation given by the other person as is mentioned in succeeding sections; or /n (b) he was justified in causing some harm to the other person, and, in causing harm in excess of the harm which he was justified in causing, he acted from such terror of immediate death or grievous harm as in fact deprived him for the time being of the power of self-control; or /n (c) in causing the death, he acted in the belief, in good faith and on reasonable grounds, that he was under a legal duty to cause the death or to do the act which he did; or /n (d) being a woman she caused the death of her child, being a child under the age of twelve months, at a time when the balance of her mind was disturbed by reason of her not fully recovered from the effect of giving birth to the child or by reason of the effect of lactation consequent upon the birth of the child. /n ###Illustration/n Paragraph (c)—A soldier is ordered by his commanding officer to fire upon a mob, there being no necessity for such an order to be given. Here, if the soldier in good faith believed himself bound to obey the order, he is not guilty of murder, but is guilty of manslaughter."
+                },
+                {
+                    "section_number": "53",
+                    "title": "Matters which Amount to Provocation.",
+                    "content": "The following matters may amount to extreme provocation to one person to cause the death of another person namely— /n (a) an unlawful assault and battery committed upon the accused person by the other person, either in an unlawful fight or otherwise, which is of such a kind, either in respect of its violence or by reason of accompanying words, gestures, or other circumstances of insult or aggravation, as to be likely to deprive a person, being of ordinary character and being in the circumstances in which the accused person was, of the power of self-control; /n (b) the assumption by the other person, at the commencement of an unlawful fight, of an attitude manifesting an intention of instantly attacking the accused person with deadly or dangerous means or in a deadly manner. /n (c) an act of adultery committed in the view of the accused person with or by his wife or her husband, or the crime of unnatural carnal knowledge committed in his or her view upon his or her wife, husband, or child; and /n (d) a violent assault and battery committed in the view or presence of the accused person upon his or her wife, husband, child, or parent, or upon any other person being in the presence and in the care or charge of the accused person."
+                },
+                {
+                    "section_number": "54",
+                    "title": "Cases in which Benefits of Provocation is Excluded.",
+                    "content": "Cases in which Benefits of Provocation is Excluded.",
+                    "subsections": [
+                        {
+                            "subsection_number": "1",
+                            "content": "Notwithstanding proof on behalf of the accused person of any matter of extreme provocation, the crime shall not be thereby reduced to manslaughter if it appears— /n (a) that he was not in fact deprived of the power of self-control by the provocation; or/n (b) that he acted wholly or partly from a previous intention to cause death or harm or to engage in an unlawful fight, whether or not he would have acted on that purpose at the time or in the manner in which he did act but for the provocation; or /n (c) that, after the provocation was given, and before he did that act which caused the harm, such a time elapsed or such circumstances occurred that an ordinary person might have recovered his self-control; or /n (d) that he acted on a manner, in respect either of the instrument or means used or of the cruel or other manner in which it was used, in which no ordinary person would, under the circumstances, have been likely to act. For the purposes of this subsection 'an ordinary person' means an ordinary person of the community to which the accused belongs. /n ###Illustrations/n (a) Subsection (1)(b), A., who has long been seeking an occasion to fight in a deadly manner with B., is struck by B., and kill B. Here, if the jury think that A. put himself in B's way for the purpose of taking any opportunity which might occur to fight with B., the crime of A. is not reduced to manslaughter by reason of the blow which he received from B. /n (b) A., receives a slight blow from a weaker man B., and beats and kicks B. to death. A.'s crime is not reduced to manslaughter."
+                        },
+                        {
+                            "subsection_number": "2",
+                            "content": "Where a person, in the course of a fight, uses any deadly or dangerous means against an adversary who has not used or commenced to use any deadly or dangerous means against him, if it appears that the accused person intended or prepared to use such means before he had received any such blow or hurt in the fight as might be a sufficient provocation to use means of that kind, he shall be presumed to have used the means from a previous intention to cause death, notwithstanding that, before the actual use of the means, he may have received any such blow or hurt in the fight as might amount to extreme provocation."
+                        }
+                    ]
+                },
+                {
+                    "section_number": "55",
+                    "title": "Mistake as to Matter or Provocation.",
+                    "content": "A lawful blow, arrest, or other violence may be a provocation, notwithstanding its lawfulness, if the accused person neither believed, nor, at the time of his act, had reasonable means of knowing or reasonable ground for supposing that it was lawful."
+                },
+                {
+                    "section_number": "56",
+                    "title": "Mistakes as to Person Giving Provocation.",
+                    "content": "Where a sufficient provocation has been given to the accused person by one person, and he kills another person under the belief, on reasonable grounds, that the provocation was given by him, the provocation shall be admissible for reducing the crime to manslaughter in the same manner as if it had been given by the person killed; but, except, as in this section mentioned, provocation given by one person is not provocation to kill a different person."
+                },
+                {
+                    "section_number": "57",
+                    "title": "Abetment of Suicide. Attempted Suicide.",
+                    "content": "Abetment of Suicide. Attempted Suicide.",
+                    "subsections": [
+                        {
+                            "subsection_number": "1",
+                            "content": "Whoever abets the commission of suicide by any person shall whether or not the suicide be actually committed, be guilty of first degree felony."
+                        },
+                        {
+                            "subsection_number": "1",
+                            "content": "Whoever attempts to commit suicide shall be guilty of a misdemeanour."
+                        }
+                    ]
+                },
+                {
+                    "section_number": "58",
+                    "title": "Abortion or Miscarriage.",
+                    "content": "Abortion or Miscarriage.",
+                    "subsections": [
+                        {
+                            "subsection_number": "1",
+                            "content": "Subject to the provisions of subsection (2) of this section— /n (a) any woman who with intent to cause abortion or miscarriage administers to herself or consents to be administered to her any poison, drug or other noxious thing or uses any instrument or other means whatsoever; or /n (b) any person who— /n (i) administers to a woman any poison, drug or other noxious thing or uses any instrument or any other means whatsoever with the intent to cause abortion or miscarriage, whether or not that the woman is pregnant or has given her consent; /n (ii) induces a woman to cause or consent to causing abortion or miscarriage; /n (iii) aids and abets a woman to cause abortion or miscarriage; /n (iv) attempts to cause abortion or miscarriage; or /n (v) supplies or procures any poison, drug, instrument or other thing knowing that it is intended to be used or employed to cause abortion or miscarriage, shall be guilty of an offence and liable on conviction to imprisonment for a term not exceeding five years."
+                        },
+                        {
+                            "subsection_number": "2",
+                            "content": "It is not an offence under subsection (1) of this section if an abortion or a miscarriage is caused in any of the following circumstances by a registered medical practitioner specialising in gynaecology or any other registered medical practitioner in a Government hospital or in a private hospital or clinic registered under the Private Hospitals and Maternity Homes Act, 1958 (No. 9) or in a place approved for the purpose by legislative instrument made by the Secretary: /n (a) where the pregnancy is the result of rape, defilement of a female idiot or incest and the abortion or miscarriage is requested by the victim or her next of kin or the person in loco parentis, if she lacks the capacity to make such request; /n (b) where the continuance of the pregnancy would involve risk to the life of the pregnant woman or injury to her physical or mental health and such woman consents to it or if she lacks the capacity to give such consent it is given on her behalf by her next of kin or the person in loco parentis; or /n (c) where there is substantial risk that if the child were born, it may suffer from, or later develop, a serious physical abnormality or disease."
+                        },
+                        {
+                            "subsection_number": "3",
+                            "content": "For purposes of this section 'abortion or miscarriage' means the premature expulsion or removal of conception from the uterus or womb before the period of gestation is completed."
+                        }
+                    ]
+                },
+                {
+                    "section_number": "59",
+                    "title": "Explanation as to Causing Abortion.",
+                    "content": "Not repealed by P.N.D.C.L. 102."
+                },
+                {
+                    "section_number": "60",
+                    "title": "Causing Harm to Child at Birth.",
+                    "content": "Whoever intentionally and unlawfully causes harm to a living child during the time of its birth shall be guilty of second degree felony."
+                },
+                {
+                    "section_number": "61",
+                    "title": "Explanation as to Causing Harm to Child at Birth.",
+                    "content": "Explanation as to Causing Harm to Child at Birth.",
+                    "subsections": [
+                        {
+                            "subsection_number": "1",
+                            "content": "Where harm is caused to a child during the time of its birth, or where, upon the discovery of the concealed body of the child, harm is found to have been caused to it, such harm shall be presumed to have been caused to the child before its death."
+                        },
+                        {
+                            "subsection_number": "2",
+                            "content": "The time of birth includes the whole period from the commencement of labour until the time when the child so becomes a person that it may be murder or manslaughter to cause its death."
+                        }
+                    ]
+                },
+                {
+                    "section_number": "62",
+                    "title": "Concealment of Body of Child.",
+                    "content": "Whoever conceals the body of a child, whether such child was born alive or not, with intent to conceal the fact of its birth, existence, or death, or the manner or cause of its death, shall be guilty of misdemeanour."
+                },
+                {
+                    "section_number": "63",
+                    "title": "Explanation as to Concealment of Body of Child.",
+                    "content": "Explanation as to Concealment of Body of Child.",
+                    "subsections": [
+                        {
+                            "subsection_number": "1",
+                            "content": "Any secret disposition of the body of a child, whether it be intended to be permanent or not, may be a concealment."
+                        },
+                        {
+                            "subsection_number": "2",
+                            "content": "The abandonment of the body of a child in any public place may be a concealment, if the body is abandoned for the purpose of concealing the fact of its birth or existence."
+                        },
+                        {
+                            "subsection_number": "3",
+                            "content": "Section 62 shall not apply to the case of a child of less than six months growth before its birth."
+                        },
+                        {
+                            "subsection_number": "4",
+                            "content": "Section 62 shall not apply to the case of intent to conceal the birth, existence, or death of a child, or the manner or cause of its death, from any particular person or persons only, but it is requisite that there should be an intent to conceal the same from all persons, except such persons as abet or consent to the concealment. /n ###Illustrations/n Subsection (4)(a): A woman conceals from her father or mother the body of her child. She is not guilty of concealment of birth unless she intended to conceal it from persons, generally. /n (b) a woman conceals the body of her child from all persons except a nurse who helped her in the concealment. The woman is guilty of concealment of birth notwithstanding that she did not conceal it from her accomplice."
+                        },
+                        {
+                            "subsection_number": "5",
+                            "content": "Section 62 applies to the mother of the child as to any other person."
+                        }
+                    ]
+                },
+                {
+                    "section_number": "64",
+                    "title": "Special Provisions as to Causing Death.",
+                    "content": "The general provisions of Part I with respect to causing an event are, in their application with respect to the causing of death by harm, subject to the following explanations and modifications, namely— /n (a) the death of a person shall be held to have been caused by harm if, by reason of the harm, death has happened otherwise or sooner, by however short a time, than it would probably have happened but for the harm; /n (b) it is immaterial that the harm would not have caused the person's death but for his infancy, old age, disease, intoxication, or other state of body or mind, at the time when the harm was caused; /n (c) it is immaterial that the harm would not have caused the person's death but for his refusal or neglect to submit to or seek proper medical or surgical treatment, or but for his negligent or improper conduct or manner of living or of treating the harm, unless the person so acting was guilty of a wanton or reckless disregard of his own health or condition; /n (d) death shall be held to have been caused by harm if the death is caused by the medical or surgical treatment of the harm, unless such treatment is grossly negligent or unless the death could not have been foreseen as a likely consequence of the treatment; and /n (e) death shall not be held to have been caused by harm unless the death takes place within a year and a day of the harm being caused."
+                },
+                {
+                    "section_number": "65",
+                    "title": "Special Provision as to Abetment of Homicide.",
+                    "content": "The general provisions of Part I with respect to abetment are, in their application for the purposes of this Chapter, subject to the following special provision, namely, where a person commands the killing of another person, knowing that the killing will be unlawful, then, although the offence of the person commanded be reduced to manslaughter, or to an attempt to commit manslaughter, by his belief that he was under the legal duty to obey the command, the person giving the command is guilty of the same offence as if the person commanded had not believed himself to be under a legal duty to obey the command."
+                },
+                {
+                    "section_number": "66",
+                    "title": "Explanation as to a Child as the Object of Homicide.",
+                    "content": "Explanation as to a Child as the Object of Homicide.",
+                    "subsections": [
+                        {
+                            "subsection_number": "1",
+                            "content": "In order that a child may be such a person that it may be murder or manslaughter to cause its death, it is necessary that, before its death, the child should have been completely brought forth alive from the body of the mother."
+                        },
+                        {
+                            "subsection_number": "2",
+                            "content": "It is not necessary either that a circulation of blood, independent of the mother's circulation, should have commenced in the child, or that the child should have breathed, or that it should have been detached from the mother by severance of the umbilical cord; and it is murder or manslaughter, as the case may be, to cause death to happen to a child after it becomes a person, within the meaning of this section, by means of harm caused to it before it became such a person."
+                        }
+                    ]
+                },
+                {
+                    "section_number": "67",
+                    "title": "Saving in Case of Medical or Surgical Treatment.",
+                    "content": "Saving in Case of Medical or Surgical Treatment.",
+                    "subsections": [
+                        {
+                            "subsection_number": "1",
+                            "content": "Where any person does an act in good faith, for the purposes of medical or surgical treatment, an intent to cause death shall not be presumed from the fact that the act was or appeared likely to cause death."
+                        },
+                        {
+                            "subsection_number": "2",
+                            "content": "Any act which is done, in good faith and without negligence, for the purposes of medical or surgical treatment of a pregnant woman is justifiable, although it causes or is intended to cause abortion or miscarriage, or premature delivery, or the death of the child."
+                        }
+                    ]
+                },
+                {
+                    "section_number": "68",
+                    "title": "Special Provision as to Jurisdiction in Case of Homicide.",
+                    "content": "Where harm is unlawfully caused to a person within the jurisdiction of the Court, and his death is thereby caused, but the death happens beyond the jurisdiction of the Court, any person who is guilty of having caused or abetted the causing of the harm may be tried and punished under this Code for murder or manslaughter as if the death had happened within the jurisdiction. /n ###Illustration   /n A wounds B. in Accra. B. sails from Accra, and dies of the wounds in Lagos, A. is punishable in Accra for the murder or manslaughter."
                 }
             ]
         },
