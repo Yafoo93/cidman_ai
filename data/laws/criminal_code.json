@@ -1,0 +1,619 @@
+{
+    "name": "Criminal Code, 1960 (Act 29)",
+    "version": "2024",
+    "last_updated": "2024-11-07",
+    "content": [
+        {
+            "chapter": "Chapter 1",
+            "title": "PRELIMINARY MATTERS",
+            "sections": [
+                {
+                    "section_number": "1",
+                    "title": "Interpretation",
+                    "content": "In this Code unless the contrary intention appears— 'administer', when used with reference to administering any substance to a person, means causing the substance to be taken or introduced into any part of a persons body, whether with or without his knowledge or consent; 'cattle' means the male, female, or young of any animal of the following kinds, namely, any horse, ass, mule, kine, sheep, goat, or swine, and any animal, other than a dog, which is ordinarily kept or used as a beast of burden, or for draught, or for riding, or for the production of wool or of hair; 'corporation' does not include a corporation sole; 'crime' means any act punishable by death or imprisonment or fine; 'deliver' includes causing a person to receive a thing and permitting a person to take a thing, whether directly or by any other person; 'duress' means any force, harm, constraint, or threat, used with intent to cause a person against his will to do or to abstain from doing any act; 'Engineer-in-Chief of Public Works' includes any Assistant Engineer, any District or Assistant District Engineer, any Inspector, Sub-Inspector, Foreman of Works, any Surveyor, Assistant Surveyor, or Foreman of Roads; 'felony', 'first degree felony' and 'second degree felony' shall be construed in accordance with section 296 of the Criminal Procedure Code; 'gaoler' means the keeper or other officer having the charge of any prison; 'harm' means any bodily hurt, disease, or disorder, whether permanent or temporary; 'Health officer' includes the Chief Medical Officer, any other medical officer, and any person appointed as health officer; 'indictable offence' means any offence punishable on indictment; 'judicial proceeding' includes any civil or criminal trial, and any enquiry or investigation held by a judicial officer in pursuance of any duty or authority; 'jury' includes a judge in cases where a judge, whether with or without assessors, tries a case without a jury; 'Minister' means Minister responsible for Justice; 'misdemeanour' shall be construed in accordance with section 296 of the Criminal Procedure Code; 'night' means the time between the hour of seven in the evening of any day and the hour of six in the following morning; 'offence' has the same meaning as crime; 'order' includes a conviction; 'peace officer' means any person being or acting as a constable or special constable, or lawfully acting in aid of any such person; 'person', for the purposes of any provision of this Code relating to defrauding a person or to committing any offence against the property of any person, includes the Republic of Ghana; expressions referring to 'the public' refer not only to the citizens of the Republic as a whole but also to the persons inhabiting or using any particular place or any number of such persons, and also to such indeterminate persons as may happen to be affected by the conduct with reference to which the expressions are used; 'public place' includes any public way and any building, place, or conveyance to which for the time being the public are entitled or permitted to have access, either without any condition or upon condition of making any payment, and any building or place which is for the time being used for any public or religious meeting or assembly, or as an open Court; 'public way' includes any highway, market place, lorry park, square, street, bridge, or other way which is lawfully used by the public; acts are done 'publicly'—'",
+                    "subsections": [
+                        {
+                            "subsection_number": "1",
+                            "content": "if they are so done in any public place as to be likely to be seen by any person, whether such person be or be not in a public place; or"
+                        },
+                        {
+                            "subsection_number": "2",
+                            "content": "if they are so done in any place, not being a public place, as to be likely to be seen by any person in any public place; 'send' includes causing, or attempting in any manner to cause, a thing to be received by a person; summary offence' means any offence punishable on summary conviction under any enactment; 'town' means— (a) the area of authority of a Municipal or Urban Council; or (b) any place to which the Towns Ordinance applies; or (c) any place (whether a town or not) which the Minister may by executive instrument order. 'vehicle' includes cart, bicycle, tricycle, and any other carriage on wheels; 'will' when used with respect to a document, means any testamentary document, whether the same be formal or informal, complete or incomplete."
+                        }
+                    ]
+                },
+                {
+                    "section_number": "2",
+                    "title": "Provisions Relating to a Company and its Officers",
+                    "content": "Provisions Relating to a Company and its Officers",
+                    "subsections": [
+                        {
+                            "subsection_number": "1",
+                            "content": "'Company' includes any partnership or association whether corporate or unincorporate, and whether the purposes thereof be or be not the carrying on of any trade or business, and whether it be in course of formation or be actually formed, or be in course of dissolution, winding-up, or liquidation."
+                        },
+                        {
+                            "subsection_number": "2",
+                            "content": "A company is in course of formation as soon as any act is done for the purpose of forming it; and it is immaterial whether or not it be at any time actually formed."
+                        },
+                        {
+                            "subsection_number": "3",
+                            "content": "'Officer' of a company or corporation includes any officer, chairman, director, trustee, manager, secretary, treasurer, cashier, clerk, auditor, accountant, or other person provisionally, permanently, or temporarily charged with or performing any duty or function in respect of the affairs of the company or corporation, whether for or without any remuneration."
+                        },
+                        {
+                            "subsection_number": "4",
+                            "content": "'Account', when used with reference to a company or corporation, includes any book, register, balance sheet, or document in writing relating to the affairs of a company or corporation, whether such affairs be or be not the ordinary business or object of the company or corporation."
+                        }
+                    ]
+                },
+                {
+                    "section_number": "3",
+                    "title": "Definition of Public Officer, Etc.",
+                    "content": "Definition of Public Officer, Etc.",
+                    "subsections": [
+                        {
+                            "subsection_number": "1",
+                            "content": "'Public officer' includes any person holding an office by election or appointment under any enactment or under powers conferred by any enactment"
+                        },
+                        {
+                            "subsection_number": "2",
+                            "content": "A person acting as a minister of religion or ecclesiastical officer, of whatsoever denomination, is a public officer in so far as he performs functions in respect of the notification of intended marriage, or in respect of the solemnization of marriage, or in respect of the making or keeping of any register or certificate of marriage, birth, baptism, death, or burial, but not in any other respect."
+                        },
+                        {
+                            "subsection_number": "3",
+                            "content": "'Civil office' means any public office other than an office in the armed forces."
+                        },
+                        {
+                            "subsection_number": "4",
+                            "content": "'Judicial officer' means any person executing judicial functions as a public officer."
+                        },
+                        {
+                            "subsection_number": "5",
+                            "content": "It is immaterial, for the purposes of this section, whether a person is or is not entitled to any salary or other remuneration in respect of the duties of his office."
+                        },
+                        {
+                            "subsection_number": "6",
+                            "content": "'Public election' means any election the qualification for voting at which, or the mode of voting at which, is determined or regulated by any enactment."
+                        }
+                    ]
+                },
+                {
+                    "section_number": "4",
+                    "title": "General Rules of Construction.",
+                    "content": "Whenever under the provisions of any law for the time being in force other than this Code any offence is created, this Part shall apply, except in so far as a contrary intention appears, to the offence as it applies to offences under this Code.",
+                    "subsections": [
+                        {
+                            "subsection_number": "1",
+                            "content": "(a) This Code shall not be construed strictly, either as against the State or as against a person accused of any offence, but shall be construed amply and beneficially for giving effect to the purposes thereof; (b) In the construction of this Code, a Court shall not be bound by any judicial decision or opinion on the construction of any other enactment, or of the common law, as to the definition of any offence or of any element of any offence; and (c) The illustrations set out in this Code form part of the Code and may be used as aids to its construction, but they are not to be taken as limiting the generality of any of its provisions."
+                        }
+                    ]
+                },
+                {
+                    "section_number": "5",
+                    "title": "Application of Part I to other Offences.",
+                    "content": "A person is not criminally responsible for an act or omission if they lacked intent or understanding.",
+                    "subsections": [
+                        {
+                            "subsection_number": "1",
+                            "content": " "
+                        }
+                    ]
+                },
+                {
+                    "section_number": "6",
+                    "title": "Jurisdiction Over Territorial Waters",
+                    "content": "[Repealed by Act 372, sec. 3.]",
+                    "subsections": [
+                        {
+                            "subsection_number": "1",
+                            "content": ""
+                        }
+                    ]
+                },
+                {
+                    "section_number": "7",
+                    "title": "Acts done Partly Beyond the Jurisdiction",
+                    "content": "[Repealed by Act 372, sec. 3.]",
+                    "subsections": [
+                        {
+                            "subsection_number": "1",
+                            "content": ""
+                        }
+                    ]
+                },
+                {
+                    "section_number": "8",
+                    "title": "Exclusion of Common Law.",
+                    "content": "No person shall be liable to punishment by the common law for any act.",
+                    "subsections": [
+                        {
+                            "subsection_number": "1",
+                            "content": "No person shall be liable to punishment by the common law for any act."
+                        }
+                    ]
+                },
+                {
+                    "section_number": "9",
+                    "title": "Offences Under more than One Enactment.",
+                    "content": "Offences Under more than One Enactment.",
+                    "subsections": [
+                        {
+                            "subsection_number": "1",
+                            "content": "Where an act constitutes an offence under two or more enactments the offender shall be liable to be prosecuted and punished under either or any of those enactments but shall not be liable to be punished twice for the same offence."
+                        },
+                        {
+                            "subsection_number": "2",
+                            "content": "This section shall not affect a right conferred by an enactment on any person to take disciplinary measures against the offender in respect of the act constituting the offence."
+                        }
+                    ]
+                },
+                {
+                    "section_number": "10",
+                    "title": "Saving for Contempt of Court.",
+                    "content": "Nothing in this Code shall affect the power of a Court to punish a person for contempt of Court.",
+                    "subsections": [
+                        {
+                            "subsection_number": "1",
+                            "content": "Nothing in this Code shall affect the power of a Court to punish a person for contempt of Court."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "chapter": "Chapter 2",
+            "title": "GENERAL EXPLANATIONS",
+            "sections": [
+                {
+                    "section_number": "11",
+                    "title": "Provisions Relating to Intent.",
+                    "content": "Provisions Relating to Intent.",
+                    "subsections": [
+                        {
+                            "subsection_number": "1",
+                            "content": "If a person does an act for the purpose of thereby causing or contributing to cause an event, he intends to cause that event, within the meaning of this Code, although either in fact or in his belief, or both in fact and also in his belief, the act is unlikely to cause or to contribute to cause the event."
+                        },
+                        {
+                            "subsection_number": "2",
+                            "content": "If a person does an act voluntarily, believing that it will probably cause or contribute to cause an event, he intends to cause that event, within the meaning of this Code, although he does not do the act for the purpose of causing or of contributing to cause the event."
+                        },
+                        {
+                            "subsection_number": "3",
+                            "content": "If a person does an act of such a kind or in such a manner as that, if he used reasonable caution and observation, it would appear to him that the act would probably cause or contribute to cause an event, or that there would be great risk of the act causing or contributing to cause an event, he shall be presumed to have intended to cause that event until it is shown that he believed that the act would probably not cause or contribute to cause the event, or that he did not intend to cause or contribute to it."
+                        },
+                        {
+                            "subsection_number": "4",
+                            "content": "If a person, intending to cause an event with respect to one or some of several persons or things, or to such indeterminate person or thing as may happen to be affected by his act, causes such event with respect to any such person or thing, he shall be liable in the same manner as if he had intended to cause the event with respect to that person or thing."
+                        },
+                        {
+                            "subsection_number": "5",
+                            "content": "If a person does an act with intent to assault, harm, kill, or cause any other event to a particular person, and his act happens to take effect, whether completely or incompletely, against a different person, he shall be liable to be tried and punished as if his intent had been directed against that different person; but any ground of defence or extenuation shall be admissible on behalf of the accused person which would have been admissible if his act had taken effect against the person or in respect of the thing against whom or in respect of which he intended it to take effect. IllustrationsSubsection (1). A. discharges a gun for the purpose of shooting B., and actually hits him. It is immaterial that B. was at such a distance, or in such a situation that the shot would most probably miss B. Subsection (2). A., for the purpose of causing the miscarriage of B., administers to her a medicine which he knows to be dangerous to life. It is immaterial that he earnestly desires to avoid causing B.'s death, and uses every precaution to avoid causing it. Subsection (3). A. discharges a gun among a crowd of persons, and one of them is shot. A. may be presumed to have intended to cause harm, unless he can show that he had ground for believing that harm would not be caused. Subsection (4). A., in the last illustration, is punishable as if he had purposed to cause the harm to the person to whom it was in fact caused. Subsection (5). A. unlawfully strikes at B., but the blow happens to miss B. and to hit a constable. A is punishable as if he had purposed to hit the constable."
+                        }
+                    ]
+                },
+                {
+                    "section_number": "12",
+                    "title": "Provisions Relating to Negligence.",
+                    "content": "A person causes an event negligently if, without intending to cause the event, he causes it by voluntary act, done without such skill and care as are reasonably necessary under the circumstances.",
+                    "subsections": [
+                        {
+                            "subsection_number": "1",
+                            "content": "(a) A., a woman having no knowledge of midwifery, acts as a midwife, and through her want of skill she causes death. Here, if A. knew that a properly qualified midwife or surgeon could be procured, the fact of A. so acting without possessing proper skill and without any necessity for so acting, is evidence of negligence, although it appears that she did her best. But if the emergency was sudden, and no properly qualified midwife or surgeon could be procured, A. is not guilty of negligence, provided she did the best she could under the circumstances."
+                        },
+                        {
+                            "subsection_number": "2",
+                            "content": "(b) A chemist sells poison so made up as to be liable to be mistaken for a harmless medicine. This is evidence of negligence."
+                        },
+                        {
+                            "subsection_number": "3",
+                            "content": "(c) If the law directs poisons to be sold only in bottles of a particular kind, and the chemist sells poison in a common bottle, this is evidence of negligence, even though the common bottle be labelled 'Poison'."
+                        },
+                        {
+                            "subsection_number": "4",
+                            "content": "(d) A., knowing a horse to be dangerously vicious, rides it through a crowd, and it becomes excited by the noise and throng, and kicks B, A. is within this section, notwithstanding that he had and used all possible skill in riding."
+                        },
+                        {
+                            "subsection_number": "5",
+                            "content": "(e) An acrobat carries a child on a tight-rope at a great height. He happens to miss his footing and the child is killed. He is guilty of negligence, notwithstanding that he had and used all possible skill in rope-walking."
+                        }
+                    ]
+                },
+                {
+                    "section_number": "13",
+                    "title": "Provisions Relating to Causing an Event.",
+                    "content": "A person is not criminally responsible for an act or omission if they lacked intent or understanding.",
+                    "subsections": [
+                        {
+                            "subsection_number": "1",
+                            "content": "If a person intentionally or negligently causes any involuntary agent to cause an event, that person shall be deemed to have caused the event. 'Involuntary agent' means any animal or other thing, and also any person who is exempted from liability to punishment for causing the event, by reason of infancy, or insanity, or otherwise, under the provisions of this Code... ###Subsection (1) (a) A. gives poisoned sweetmeats to a child, who eats some and gives the rest to other children. A. has poisoned the first child and also the other children. (b) 'A. induces a child under twelve years to steal a thing for him. A has stolen the thing.' (c) A. induces a madman to kill himself. A. has killed the madman. (d) A. causes a dog to harm B. A. has caused the harm to B."
+                        },
+                        {
+                            "subsection_number": "2",
+                            "content": "If an event is caused by acts of several persons acting either jointly or independently, each of those persons who has intentionally or negligently contributed to cause the event shall, subject to the provisions of the next subsection, and to the provisions of this Part with respect to abetment, be deemed to have caused the event; but any matter of exemption, justification, extenuation, or aggravation which exists in the case of any one of those persons shall have effect in his case, whether it exists or not in the case of any of the other persons.         ###ILLUSTRATION.    A railway collision is caused partly by the neglect of A., a station master, to signal a train; partly by neglect of B., a pointsman, to arrange the points; partly by the carelessness of C., D., E., and F., the drivers and guards of the train. A., B., C., D., E., and F. have each caused the collision, although it would not have happened if any one of them had used proper skill and care."
+                        },
+                        {
+                            "subsection_number": "3",
+                            "content": "A person shall not be convicted of having intentionally or negligently caused an event if, notwithstanding his act and the acts of any person acting jointly with him, the event would not have happened but for the existence of some state of facts or the intervention of some other event or of some other person, the probability of the existence or intervention of which other event or person the accused person did not take into consideration, and had no reason to take into consideration. The provision shall not apply where a person is charged with having caused an event by an omission to perform a duty for averting the event.        ###ILLUSTRATION     (a) A. rides a vicious horse in a crowd. B. wantonly strikes the horse, and it kicks C. In this case, B., and not A., has caused the harm to C. (b) A., who is a signal-man improperly leaves his post. B., who is a trespasser, in A.'s absence unlawfully alerts the signals, and a collision ensues. A. is punishable as for having negligently caused the collision by omission to attend to his duty. B. is also punishable for having intentionally or negligently caused the collision."
+                        },
+                        {
+                            "subsection_number": "4",
+                            "content": "If a person beyond the jurisdiction of the Courts causes any voluntary agent to cause an event within the jurisdiction, he shall be deemed to have caused the event within the jurisdiction.      ###ILLUSTRATION    A., in Lagos, posts a letter to B. in Accra, borrowing money from B. on the credit of a cargo which A. by the letter falsely represents that he has shipped for B. B. sends the money on the faith of the representation. A. has defrauded B. in Accra."
+                        },
+                        {
+                            "subsection_number": "5",
+                            "content": "Subject to the provisions of this section, and to the special provisions of any particular section of this Code, it is a question of fact whether an event is fairly and reasonably to be ascribed to a person's act as having been caused thereby.     ### ILLUSTRATION   A., in Lagos, posts a letter to B. in Accra, borrowing money from B. on the credit of a cargo which A. by the letter falsely represents that he has shipped for B. B. sends the money on the faith of the representation. A. has defrauded B. in Accra."
+                        },
+                        {
+                            "subsection_number": "6",
+                            "content": "A person shall not, by reason of anything in this section, be relieved from any liability in respect of an attempt to cause an event; and a person shall not, by reason of anything in this section, be relieved from any liability in respect of negligent conduct, if such negligent conduct is punishable under this Code irrespectively of whether it actually causes any event.     ### ILLUSTRATION    A. shoots from a distance at B., who is on horseback, with the intent to maim him. B's horse is startled by the shot and throws B., who is killed by the fall. Here, by the reason of the rule in subsection (3), A cannot be convicted of having intentionally or negligently killed B.(unless he expected, or had reason to expect, that B.'s horse would be startled). But A. is punishable for his attempt to kill B. "
+                        }
+
+                    ]
+                },
+                {
+                    "section_number": "14",
+                    "title": "Provisions Relating to Consent.",
+                    "content": "In construing any provision of this Code by which it is required for a criminal act or criminal intent that an act should be done or intended to be done without a person's consent, or by which it is required for a matter of justification or exemption that an act should be done with a person's consent, the following rules shall be observed, namely—",
+                    "subsections": [
+                        {
+                            "subsection_number": "1",
+                            "content": " (a) a consent is void if the person giving it is under twelve years of age, or in the case of an act involving a sexual offence, sixteen years, or is, by reason of insanity or of immaturity, or of any other permanent or temporary incapability whether from intoxication or any other cause, unable to understand the nature or consequences of the act to which he consents            ### ILLUSTRATION    A. induces a person in a state of incapacity from idiocy or intoxication, or a child under twelve years of age to consent to his hair being cut off by A. Such consent is void."
+                        },
+                        {
+                            "subsection_number": "2",
+                            "content": "(b) A. by pretending to have the consent of a child's father, or under pretence of medical treatment or by threats of imprisonment, induces a child to consent to sexual intercourse. Such consent is void.             ### ILLUSTRATION            A. by pretending to have the consent of a child's father, or under pretence of medical treatment or by threats of imprisonment, induces a child to consent to sexual intercourse. Such consent is void"
+                        },
+                        {
+                            "subsection_number": "3",
+                            "content": "(c) a consent is void if it is obtained by the undue exercise of any official, parental, or any other authority; and any such authority which is exercised otherwise than in good faith for the purposes for which it is allowed by law, shall be deemed to be unduly exercised         /n ###ILLUSTRATION         A. cruelly beats a child. It is no defence for A. that the child's father authorised the beating, or that the child's father, by the exercise of his parental authority, induced the child to consent."
+                        },
+                        {
+                            "subsection_number": "4",
+                            "content": "(d) a consent is given on behalf of a person by his parent, guardian, or any other person authorised by law to give or refuse consent on his behalf, is void if it is given otherwise than in good faith for the benefit of the person on whose behalf it is given          /n ### ILLUSTRATION            A. the Chairman of a Company, consents to B. drawing money from the Company to which A. knows he has no right. If A. does not honestly believe his action is in the interests of the Company the consent is void, and B. is guilty of stealing unless he has acted in good faith. "
+                        },
+                        {
+                            "subsection_number": "5",
+                            "content": "(e) a consent is no effect if it is given by reason of a fundamental mistake of fact;           /n ### ILLUSTRATION         A. induces a woman to consent to his having carnal knowledge of her by personating her husband. Her consent is void."
+                        },
+                        {
+                            "subsection_number": "6",
+                            "content": "(f) a consent shall be deemed to have been obtained by means of deceit or of duress, or of the undue exercise of authority, or to have been given by reason of a mistake of fact, if it would have been refused but for such deceit, duress, exercise of authority, or mistake, as the case may be;"
+                        },
+                        {
+                            "subsection_number": "7",
+                            "content": "(g) for the purposes of this section, exercise of authority is not limited to exercise of authority by way of command, but includes influence or advice purporting to be used or given by virtue of an authority;"
+                        },
+                        {
+                            "subsection_number": "8",
+                            "content": "(h) a person shall not be prejudiced by the invalidity of any consent if he did not know, and could not by the exercise of reasonable diligence have known, of the invalidity."
+                        }
+
+                    ]
+                },
+                {
+                    "section_number": "15",
+                    "title": "Provisions Relating to Claim of Right.",
+                    "content": "A claim of right means a claim of right in good faith.",
+                    "subsections": [
+                        {
+                            "subsection_number": "1",
+                            "content": ""
+                        }
+
+                    ]
+                },
+                {
+                    "section_number": "16",
+                    "title": "Provisions Relating to Fraud.",
+                    "content": "For the purposes of any provision of this Code by which any forgery, falsification, or other unlawful act is punishable if used or done with intent to defraud, an intent to defraud means an intent to cause, by means of such forgery, falsification, or other unlawful act, any gain capable of being measured in money, or the possibility of any such gain, to any person at the expense or to the loss of any other person.",
+                    "subsections": [
+                        {
+                            "subsection_number": "1",
+                            "content": "### ILLUSTRATION /n (a) A. unlawfully alters B.'s will so as to increase or reduce the amount of the legacy left by B. to C. Here A. is guilty of forgery with intent to defraud although A. may have no interest in the matter."
+                        },
+                        {
+                            "subsection_number": "2",
+                            "content": "### ILLUSTRATION /n    (b) A. unlawfully alters the date on a bill exchange, for the purpose of postponing the time at which he or any other person may be called upon to pay it. Since such postponement may be a gain to A. or to such other person, A. is guilty of forgery with intent to defraud."
+                        },
+                        {
+                            "subsection_number": "3",
+                            "content": "### ILLUSTRATION /n  (c) A. forges B.'s signature to a deed, not for the purpose of gain to himself or to any other person, but for the purpose of falsely charging C. with the forgery. Here A. is not guilty of forgery with intent to defraud, but he is liable to be punished for fabricating evidence."
+                        }
+
+                    ]
+                },
+                {
+                    "section_number": "17",
+                    "title": "Provisions Relating to the Meaning and Use of Threats",
+                    "content": "In this Code, unless the context otherwise requires, 'threat' means",
+                    "subsections": [
+                        {
+                            "subsection_number": "1",
+                            "content": " In this Code, unless the context otherwise requires, 'threat' means /n(a) any threat of criminal force or harm; or /n(b) any threat of criminal damage to property; or /n(c) any threat of libel or of slander; or /n(d) any threat that a person shall be prosecuted on a charge of having committed any offence, whether such alleged offence is punishable under this Code or under any other enactment, and whether it has or has not been committed. /n(e) any threat that a person shall be detained."
+                        },
+                        {
+                            "subsection_number": "2",
+                            "content": "Any expression in this Code referring to a threat includes any offer to abstain from doing, or to procure any other person to abstain from doing, anything the threat of which is a threat of any of the kinds in this section before mentioned."
+                        },
+                        {
+                            "subsection_number": "3",
+                            "content": "It is immaterial whether a threat be that the matter thereof will be executed by the person using the threat or against or in relation to the person to whom the threat is used, or by, or against, or in relation to any other person."
+                        },
+                        {
+                            "subsection_number": "4",
+                            "content": "It is immaterial whether a threat or offer is conveyed to any person by words, or by writing, or in any other manner, and whether it is conveyed directly, or through any other person, or in any other manner."
+                        }
+
+                    ]
+                }
+            ]
+        },
+        {
+            "chapter": "Chapter 3",
+            "title": "ATTEMPTS TO COMMIT CRIMES",
+            "sections": [
+                {
+                    "section_number": "18",
+                    "title": "Provisions Relating to Attempts to Commit Crimes.",
+                    "content": "Provisions Relating to Attempts to Commit Crimes.",
+                    "subsections": [
+                        {
+                            "subsection_number": "1",
+                            "content": "A person who attempts to commit a crime by any means shall not be acquitted on the ground that, by reason of the imperfection or other condition of the means, or by reason of the circumstances under which they are used, or by reason of any circumstances affecting the person against whom, or the thing in respect of which the crime is intended to be committed or by reason of the absence of that person or thing, the crime could not be committed to his intent.            /n ###ILLUSTRATION /n (a) A. buys poison and brings it into B.'s room, intending there to mix it with B.'s drink. A. has not attempted to poison B. But if A. begins to mix it with B.'s drink, though A. afterwards alters his mind and throws away the mixture, he is guilty of an attempt. /n (b) A. points a gun, believing it to be loaded, and meaning immediately to discharge it at B. A. is guilty of an attempt, although the gun is not in fact loaded. /n (c) A. puts his hand into B.'s pocket, with the purpose of stealing. A. is guilty of an attempt, although there is nothing in the pocket. /n (d) A. performs an operation on B. with a view to causing abortion A. is guilty of an attempt, although B. is not in fact with child."
+                        },
+                        {
+                            "subsection_number": "2",
+                            "content": "Every person who attempts to commit a crime shall, be deemed guilty of an attempt, and shall, except as in this Code otherwise expressly provided, be punishable in the same manner as if the crime had been completed."
+                        },
+                        {
+                            "subsection_number": "3",
+                            "content": "Where any act amounts to a complete crime, as defined by any provision of this Code, and is also an attempt to commit some other crime, a person who is guilty of it shall be shall be liable to be convicted and punished either under such provision or under this section."
+                        },
+                        {
+                            "subsection_number": "4",
+                            "content": "Any provision of this Code with respect to intent, exemption, justification, or extenuation, or any other matter in the case of any act, shall apply with the necessary modifications to the case of an attempt to do that act."
+                        }
+
+                    ]
+                },
+                {
+                    "section_number": "19",
+                    "title": "Preparation for Committing Certain Crimes",
+                    "content": "Every person who prepares or supplies, or has in his possession, custody, or control, or in the possession, custody or control of any other person on his behalf, any instruments, materials, or means, with the intent that the instruments, materials, or means, may be used by him, or by any other person, in committing any crime by which life is likely to be endangered, or any forgery, or any felony shall be liable to punishment in like manner as if he had attempted to commit that crime.",
+                    "subsections": [
+                        {
+                            "subsection_number": "1",
+                            "content": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "chapter": "Chapter 4",
+            "title": "ABETMENT AND CONSPIRACY",
+            "sections": [
+                {
+                    "section_number": "20",
+                    "title": "Abetment of Crime and Trial and Punishment of Abettor.",
+                    "content": "Abetment of Crime and Trial and Punishment of Abettor.",
+                    "subsections": [
+                        {
+                            "subsection_number": "1",
+                            "content": "Every person who, directly or indirectly, instigates, commands, counsels, procures, solicits, or in any manner purposely aids, facilitates, encourages, or promotes, whether by his act or presence or otherwise, and every person who does any act for the purpose of aiding, facilitating, encouraging or promoting the commission of a crime by any other person, whether known or unknown, certain or uncertain, is guilty of abetting that crime, and of abetting the other person in respect of that crime.           /n ### ILLUSTRATION /n (1) (a) A. encourages B. to commit a murder. Here A. is guilty of abetting murder. /n (b) A. offers B. ¢20,000 to assault C. Here A. is guilty of abetting an assault on C. /n (c) A. and B. are fighting unlawfully. C. and others hinder a peace officer from stopping the fight. Here C. and the others are guilty of abetting the fight."
+                        },
+                        {
+                            "subsection_number": "2",
+                            "content": "Every person who abets a crime shall, if the crime is actually committed in pursuance or during the continuance of the abetment, be deemed guilty of that crime."
+                        },
+                        {
+                            "subsection_number": "3",
+                            "content": "Every person who abets a crime shall, if the crime is not actually committed, be punishable as follows, that is to say— /n (a) where the crime abetted was punishable by death the abettor shall be liable to imprisonment for life; and /n (b) in any other case the abettor shall be punishable in the same manner as if the crime had been actually committed in pursuance of the abetment.          /n### ILLUSTRATION      /n A. encourages B. to commit unlawful entry B. attempts to commit the unlawful entry, but is discovered and arrested. Here A. is punishable as if he had committed the unlawful entry."
+                        },
+                        {
+                            "subsection_number": "4",
+                            "content": "An abettor may be tried before, with, or after a person abetted, and although the person abetted is dead or is otherwise not amenable to justice."
+                        },
+                        {
+                            "subsection_number": "5",
+                            "content": "An abettor may be tried before, with, or after any other abettor, whether he and such other abettor abetted each other in respect of the crime or not, and whether they abetted the same or different parts of the crime."
+                        },
+                        {
+                            "subsection_number": "6",
+                            "content": "An abettor shall have the benefit of any matter of exemption, justification, or extenuation to which he is entitled under this Code, notwithstanding that the person abetted or any other abettor is not entitled to the like benefit."
+                        },
+                        {
+                            "subsection_number": "7",
+                            "content": "Every person who, within the jurisdiction of the Courts, abets the doing beyond the jurisdiction of an act which, if done within the jurisdiction, would be a crime, shall be punishable as if he had abetted that crime.       /n ###ILLUSTRATION          /n A. unlawfully strikes B. and B. and others immediately set upon A., and beat him so so that he dies. Here, if the blow struck by A. was such as to be a provocation to B. (section 53), B. may be guilty of manslaughter, although the others may be guilty of murder."
+                        }
+                    ]
+                },
+                {
+                    "section_number": "21",
+                    "title": "Cases where One Crime is Abetted and a Different Crime is Committed.",
+                    "content": "Cases where One Crime is Abetted and a Different Crime is Committed.",
+                    "subsections": [
+                        {
+                            "subsection_number": "1",
+                            "content": "Where a person abets a particular crime, or abets a crime against or in respect of a particular person or thing and the person abetted actually commits a different crime, or commits the crime against or in respect of a different person or thing, or in a manner different from that which was intended by the abettor, the following provisions shall have effect— /n (a) if it appears that the crime actually committed was not a probable consequence of the endeavour to commit, nor was substantially the same as the crime which the abettor intended to abet, nor was within the scope of the abetment, the abettor shall be punishable for his abetment of the crime which he intended to abet in the manner provided by this Chapter with respect to the abetment of crimes which are not actually committed; and/n (b) in any other case, the abettor shall be deemed to have abetted the crime which was actually committed, and shall be liable to punishment accordingly.         /n ### ILLUSTRATIONS    /n (a) A. incites B. to commit robbery by threats, without violence on C. B., in attempting to commit the robbery, is resisted, and murders C. Here A. is guilty only of abetting robbery, and not of murder. /n (b) A. incites B. to steal a horse. B., in pursuance of the incitement, gets the horse by false pretences. Here A. is guilty of abetting the crime which B. has committed."
+                        },
+                        {
+                            "subsection_number": "2",
+                            "content": "If a person abets a riot or unlawful assembly with the knowledge that unlawful violence is intended or is likely to be used, he is guilty of abetting violence of any kind or degree which is committed by any other person in executing the purposes of the riot or assembly, although he did not expressly intend to abet violence of that kind or degree.            /n ### ILLUSTRATION     /n Persons assemble together for the purpose of breaking open a prison and releasing a prisoner by force. Some of them are armed. If murder is committed by one of these in breaking open the prison, all persons, whether armed or not, who took part in or otherwise abetted the breaking open the prison, are guilty of abetting murder, if they knew that arms were carried and were intended on likely to be used."
+                        }
+                    ]
+                },
+                {
+                    "section_number": "22",
+                    "title": "Duty to Prevent Felony.",
+                    "content": "Every person who, knowing that a person designs to commit or is committing a felony, fails to use all reasonable means to prevent the commission or completing thereof, is guilty of a misdemeanour.",
+                    "subsections": [
+                        {
+                            "subsection_number": "1",
+                            "content": ""
+                        }
+                    ]
+                },
+                {
+                    "section_number": "23",
+                    "title": "Conspiracy.",
+                    "content": "Conspiracy.",
+                    "subsections": [
+                        {
+                            "subsection_number": "1",
+                            "content": "If two or more persons agree or act together with a common purpose for or in committing or abetting a crime, whether with or without any previous concert or deliberation, each of them is guilty of conspiracy to commit or abet that crime, as the case may be.       /n ### ILLUSTRATION     /n (a) If a lawful assembly is violently disturbed (section 204), any persons who take part in the disturbance are guilty of conspiracy to disturb it, although they may not have personally committed any violence, and although they do not act in pursuance of any previous concert or deliberation. (b) A. and B. agree together to procure C. to commit a crime. Here A. and B. are both guilty of conspiracy to abet that crime."
+                        },
+                        {
+                            "subsection_number": "2",
+                            "content": "A person within the jurisdiction of the Courts, can be guilty of conspiracy by agreeing with another person who is beyond the jurisdiction, for the commission of abetment of any crime to be committed by them or either of them, or by any other person, either within or beyond the jurisdiction; and for the purposes of this subsection as to a crime to be committed beyond the jurisdiction, 'crime' means any act which, if done within the jurisdiction, would be a crime under this Code or under any other enactment.            /n ###ILLUSTRATION /n A. in Accra and B. in Lagos agree and arrange by letter for the scuttling of a ship on the high seas, with intent to defraud the underwriters. Here A. is guilty of a conspiracy punishable under this Code."
+                        }
+                    ]
+                },
+                {
+                    "section_number": "24",
+                    "title": "Punishment for Conspiracy.",
+                    "content": "Punishment for Conspiracy.",
+                    "subsections": [
+                        {
+                            "subsection_number": "1",
+                            "content": "If two or more persons are guilty of conspiracy for the commission or abetment of any crime, each of them shall, in case the crime is committed, be punished for that crime, or shall, in case the crime is not committed, be punished as if he had abetted that crime."
+                        },
+                        {
+                            "subsection_number": "2",
+                            "content": "Any Court having jurisdiction to try a person for a crime shall have jurisdiction to try a person or persons charged with conspiracy to commit or abet that crime."
+                        }
+                    ]
+                },
+                {
+                    "section_number": "25",
+                    "title": "Harbouring Criminal.",
+                    "content": "Whoever, knowingly or having reason to believe that any person has committed or has been convicted of any crime, aids, conceals, or harbours such persons, with the purpose of enabling him to avoid lawful arrest or the execution of his sentence, shall be guilty of a misdemeanour.",
+                    "subsections": [
+                        {
+                            "subsection_number": "1",
+                            "content": ""
+                        }
+                    ]
+                },
+                {
+                    "section_number": "26",
+                    "title": "When a Child is Incapable of Committing Crime.",
+                    "content": "Nothing is a crime which is done by a person under twelve years of age. /n ###Illustration/n A., aged eleven years administers poison to B. A. is deemed not criminally responsible and considered incapable of understanding the consequences of his actions from a legal perspective.",
+                    "subsections": [
+                        {
+                            "subsection_number": "1",
+                            "content": ""
+                        }
+                    ]
+                },
+                {
+                    "section_number": "27",
+                    "title": "When an Insane Person is Entitled to Special Verdict.",
+                    "content": "When a person is accused of crime, the special verdict provided by the Criminal Procedure Code in the case of insanity shall only be applicable",
+                    "subsections": [
+                        {
+                            "subsection_number": "1",
+                            "content": "if he was prevented, by reason of idiocy, imbecility, or any mental derangement or disease affecting the mind, from knowing the nature or consequences of the act in respect of which he is accused; or         /n ###ILLUSTRATION     /n )(1)—If a person by reason of idiocy is incapable of knowing that his act will cause death, the special verdict is applicable to such case. /n (2) If a person commits homicide by reason of such a paroxysm of madness as at the time to make him incapable of considering that murder is a crime, the special verdict is applicable to such case. /n (3) The special verdict is not applicable merely because it is proved that by reason of mental derangement the accused has a propensity to homicide."
+                        },
+                        {
+                            "subsection_number": "2",
+                            "content": "if he did the act in respect of which he is accused under the influence of an insane delusion of such a nature as to render him, in the opinion of the jury or of the Court, an unfit subject for punishment of any kind in respect of such act.        /n ### ILLUSTRATION /n (1) A. kills B. by reason of an insane delusion that B. is attempting to kill A. Here the jury will be justified in finding that A. is not a fit subject for punishment. /n (2) A. is subject to insane delusions. In an interval of freedom these delusions A. kills B. Here the jury ought not to take into account the fact that at other times A. was subject to delusions."
+                        }
+                    ]
+                },
+                {
+                    "section_number": "28",
+                    "title": "Criminal Liability of Intoxicated Person.",
+                    "content": "Criminal Liability of Intoxicated Person.",
+                    "subsections": [
+                        {
+                            "subsection_number": "1",
+                            "content": "Save as provided in this section, intoxication is not a defence to any criminal charge."
+                        },
+                        {
+                            "subsection_number": "2",
+                            "content": "Intoxication is a defence to a criminal charge if by reason thereof a person charged at the time of the act complained of did not know that the act was wrong or did not know what he is was doing and— /n (a) the state of intoxication was caused without his consent by the malicious or negligent act of another person; or /n (b) the person charged was, by reason of intoxication, insane, temporarily or otherwise, at the time of the act."
+                        },
+                        {
+                            "subsection_number": "3",
+                            "content": "Where the defence under subsection (2) is established, then in a case falling under paragraph (a) the accused person shall be discharged, and in case falling under paragraph (b) the special verdict provided for by the Criminal Procedure Code in the case of insanity shall apply."
+                        },
+                        {
+                            "subsection_number": "4",
+                            "content": "Intoxication shall be taken into account for the purpose of determining whether the person charged had formed any intention, specific or otherwise, in the absence of which he would not be guilty of the offence."
+                        },
+                        {
+                            "subsection_number": "5",
+                            "content": "For the purposes of this section 'intoxication' shall be deemed to include a state produced by narcotics or drugs."
+                        }
+                    ]
+                },
+                {
+                    "section_number": "29",
+                    "title": "Ignorance or Mistake of Fact or of Law.",
+                    "content": "Ignorance or Mistake of Fact or of Law.",
+                    "subsections": [
+                        {
+                            "subsection_number": "1",
+                            "content": "A person shall not be punished for any act which, by reason of ignorance or mistake of fact in good faith, he believes to be lawful."
+                        },
+                        {
+                            "subsection_number": "2",
+                            "content": "A person shall not, except as in this Code otherwise expressly provided, be exempt from liability to punishment for any act on the ground of ignorance that the act is prohibited by law.        /n ### ILLUSTRATION     /n A., in defending himself against an assault uses greater violence than is justifiable under the provisions of Chapter 1 of Part II. Here A. cannot excuse himself on the ground that he did not know such violence to be unlawful."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "chapter": "Chapter 5",
+            "title": "JUSTIFIABLE FORCE AND HARM",
+            "sections": [
+                {
+                    "section_number": "3",
+                    "title": "Mental State",
+                    "content": "A person is not criminally responsible for an act or omission if they lacked intent or understanding.",
+                    "subsections": [
+                        {
+                            "subsection_number": "1",
+                            "content": "This includes cases of mental illness or impairment."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "chapter": "Chapter 4",
+            "title": "ABETMENT AND CONSPIRACY",
+            "sections": [
+                {
+                    "section_number": "3",
+                    "title": "Mental State",
+                    "content": "A person is not criminally responsible for an act or omission if they lacked intent or understanding.",
+                    "subsections": [
+                        {
+                            "subsection_number": "1",
+                            "content": "This includes cases of mental illness or impairment."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "chapter": "Chapter 4",
+            "title": "ABETMENT AND CONSPIRACY",
+            "sections": [
+                {
+                    "section_number": "3",
+                    "title": "Mental State",
+                    "content": "A person is not criminally responsible for an act or omission if they lacked intent or understanding.",
+                    "subsections": [
+                        {
+                            "subsection_number": "1",
+                            "content": "This includes cases of mental illness or impairment."
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
