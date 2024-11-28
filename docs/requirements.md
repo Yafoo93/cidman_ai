@@ -99,7 +99,7 @@ ii. Law Reference
     - **User Input**: Investigator enters keywords or specific law sections they want to inquire about.
     - **AI Response**: CIDman AI retrieves relevant sections from legal texts (e.g., Constitution, Criminal Code) and displays them in a readable format.
 
-### DATA SOURCES
+## DATA SOURCES
  1. Legal Texts:
     i. Criminal and Other Offences Act, 1960(Act 29).
     ii. The 1992 Constitution of Ghana.
@@ -122,3 +122,139 @@ ii. Law Reference
     iv. Charge Sheet.
     v. Brief Fact.
     vi. Accident Report.
+
+## FUNCTIONAL REQUIREMENT.
+ 1. Q&A Interactions
+    a. Inputs:
+       i. User queries in natural language
+       ii. Case context (if applicable)
+       iii. Investigation stage/phase
+    b. Processing:
+       i. Natural language processing to understand query intent
+       ii. Context analysis to provide relevant responses
+       iii. Query classification (legal, procedural, or case-specific)
+   c. Outputs:
+       i. Relevant answers with citations (if legal)
+       ii. Follow-up questions for clarity.
+       iii. Related recommendations or suggestions
+
+ 2. Complaint Entry and Report Generation
+   a. Inputs:
+       i. Complainant details (name, contact, ID)
+       ii. Incident details (date, time, location)
+       iii. Nature of complaint
+       iv. Supporting documents/evidence
+   b. Processing:
+       i. Input validation and sanitization
+       ii. Automatic categorization of complaint type
+       iii. Template selection based on complaint category
+       iv. Data formatting and standardization
+   c. Outputs:
+       i. Complaint reference number
+       ii. Generated reports (SITREP, CID Form 10)
+       iii. Digital copy for records
+       iv. Acknowledgment receipt
+
+ 3. Legal Advice and Law Book References
+   a. Inputs:
+       i. Case description or specific legal query
+       ii. Relevant sections of law being referenced
+       iii. Case circumstances and evidence
+   b. Processing:
+       i. Legal text analysis and matching
+       ii. Precedent case searching
+       iii. Relevance scoring of legal references
+       iv. Context-based filtering
+   c. Outputs:
+       i. Relevant law sections and citations
+       ii. Similar case references
+       iii. Legal interpretation and advice
+       iv. Recommended actions
+
+ 4. Security System
+   a. Inputs:
+       i. User credentials
+       ii. Access requests
+       iii. System activity logs
+       iv. Data modification requests
+   b. Processing:
+       i. Multi-factor authentication
+       ii. Role-based access control
+       iii. Activity monitoring
+       iv. Encryption/decryption
+   c. Outputs:
+       i. Access tokens
+       ii. Audit logs
+       iii. Security alerts
+       iv. Compliance reports
+
+
+
+## TECHNICAL DETAILS
+ 1. Development Stack
+
+   a. Frontend:
+       i. Framework: React Native (mobile), React.js (web)
+       ii. UI Components: Tailwind CSS
+       iii. State Management: Redux Toolkit
+       iv. API Integration: Axios
+   b. Backend:
+       i. Language: Python
+       ii. Framework: Django REST Framework
+       iii. Database: PostgreSQL
+       iv. Cache: Redis
+ 2. Core Processing Libraries
+   a. Natural Language Processing:
+       i. spaCy for text processing
+       ii. transformers for query understanding
+       iii. nltk for text analysis
+       iv. fuzzywuzzy for fuzzy string matching
+   b. Document Processing:
+       i. python-docx for Word document generation
+       ii. reportlab for PDF generation
+       iii. Jinja2 for template rendering
+       iv. pandas for data manipulation
+   c. Media Processing:
+       i. Pillow for image processing
+       ii. opencv-python for video processing
+       iii. ffmpeg-python for media conversion
+       iv. python-magic for file type detection
+ 3. Security Implementation
+   a. Authentication:
+       i. JWT for token-based authentication
+       ii. django-oauth-toolkit for OAuth2
+       iii. python-jose for encryption
+       iv. passlib for password hashing
+   b. Data Protection:
+       i. cryptography for encryption
+       ii. django-encrypted-fields for field-level encryption
+       iii. django-defender for brute force protection
+       iv. django-axes for access attempt monitoring
+ 4. Storage and Caching
+   a. File Storage:
+       i. Amazon S3 for cloud storage
+       ii. Local file system for temporary storage
+       iii. django-storages for storage backend
+       iv. boto3 for AWS integration
+   b. Caching System:
+       i. Redis for session management
+       ii. Memcached for API caching
+       iii. django-cache-machine for model caching
+       iv. django-cacheops for automatic caching
+ 6. API Integration
+   a. External Services:
+       i. REST APIs for system integration
+       ii. GraphQL for complex queries
+       iii. WebSocket for real-time updates
+       iv. gRPC for internal services
+ 7. Development Tools
+   a. Testing:
+       i. pytest for unit testing
+       ii. selenium for E2E testing
+       iii. locust for load testing
+       iv. coverage for code coverage
+   b. Monitoring:
+       i. sentry for error tracking
+       ii. prometheus for metrics
+       iii. grafana for visualization
+       iv. elk stack for log management
