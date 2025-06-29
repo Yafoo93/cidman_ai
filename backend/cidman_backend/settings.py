@@ -41,6 +41,8 @@ INSTALLED_APPS = [
     'corsheaders',
     'rest_framework',
     'core',
+    'legal',
+    'legal_docs',
 ]
 
 MIDDLEWARE = [
